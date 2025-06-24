@@ -1,0 +1,8 @@
+com\ltp\gradesubmission\Service\GradeService.class
+com\ltp\gradesubmission\Controller\GradeController.class
+com\ltp\gradesubmission\Repository\GradeRepository.class
+com\ltp\gradesubmission\GradeSubmissionApplication.class
+com\ltp\gradesubmission\Score.class
+com\ltp\gradesubmission\Constants.class
+com\ltp\gradesubmission\Grade.class
+com\ltp\gradesubmission\ScoreValidator.class
